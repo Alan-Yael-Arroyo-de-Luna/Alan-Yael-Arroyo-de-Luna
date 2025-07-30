@@ -1,14 +1,15 @@
-## HackerRank Certificates 👋
+## HackerRank Certificates 👋👌
 
 Here you can find some of the certificates I've earned from completing SQL
 and programing challenges on HackerRank.
 You can preview my certificates below 
 or open them in full using the provided links.
 
-basic: https://www.hackerrank.com/certificates/iframe/4a36b98c1133
-intermediate: https://www.hackerrank.com/certificates/iframe/1a3ad65a2bce
+basic: https://www.hackerrank.com/certificates/iframe/4a36b98c1133👈
 
-Thsnks for visiting and checking them out!
+intermediate: https://www.hackerrank.com/certificates/iframe/1a3ad65a2bce👈
+
+Thsnks for visiting and checking them out!👍
 
 <!--
 **Alan-Yael-Arroyo-de-Luna/Alan-Yael-Arroyo-de-Luna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
